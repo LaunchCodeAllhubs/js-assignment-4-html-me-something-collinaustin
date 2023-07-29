@@ -1,1 +1,152 @@
 /* Write your CSS here! */
+
+* {
+    box-sizing: border-box;
+   }
+
+hr {
+    align-items: center;
+    border: 1.5px solid black;
+    margin: 75px 220px;
+    margin-top: 70px;
+
+}  
+figure.centered-text {
+    text-align: center;
+}
+
+header {
+    height: 525px;
+    padding: 20px;
+    margin: 0px;
+    margin-bottom: 50px;
+    background-image: url("images/wedding group.jpg");
+    background-size: cover; 
+    background-position: center; 
+    display: flex; 
+    align-items: flex-start;
+  }
+
+figcaption {
+    text-align: center;
+    margin: 1.5rem 100px;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 12;
+}
+
+p.heart{
+    text-align: center;
+    font-size: 3rem;
+    margin: 30px;
+}
+
+p {
+    text-align: justify;
+    margin: 1.5rem 100px;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 12;
+}
+
+h1 {
+    font-size: 3.25rem;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-weight: 700;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+
+h3 {
+    text-align: center;
+    font-family: 'Roboto Flex', sans-serif;
+    font-size: 2rem;
+
+}
+   div.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
+
+div.gallery {
+    border: 1px solid #ccc;
+    float: left;
+    width: 50%;
+    font-size: 11pt;
+    font-family: 'Gloria Hallelujah', cursive;
+    justify-content: space-between;
+    padding: 5px;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+img {
+	width: 100%;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+  
+@media only screen and (max-width: 200px) {
+    div.gallery {
+        width: 100%; /* Display one photo per line on smaller screens */
+        margin-bottom: 15px;
+      }
+}
+
+@media only screen and (max-width: 850px) {
+    /* Adjust the font size of the main heading for smaller screens */
+    h1 {
+        font-size: 2.5rem;
+        margin-left: 0px
+    }
+}
+
+@media only screen and (min-width: 1000px) {
+    /* Adjust the font size of the main heading for smaller screens */
+    h1 {
+        font-size: 3.25rem;
+        font-family: 'Gloria Hallelujah', cursive;
+        font-weight: 700;
+        margin-top: 0px;
+        margin-left: 0px;
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+}
+
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgba(146, 143, 143, 0.821);
+}
+
+#mainHeading {
+    color: red;
+    text-align: center;
+}
+
+.funParagraph {
+    color: green;
+}
+
+p.footer{
+    text-align: center;
+}
+
+footer {
+	color: white;
+	background-color: black;
+	height: auto;
+	padding: 5px;
+    margin-top: 25px;
+}

@@ -1,0 +1,32 @@
+
+TITLE (logo optional)
+
+My Wedding in Mexico
+
+TAGLINE (optional)
+An unforgettable week with all my favorite people...
+
+
+INTRO (paragraph)
+On May 5th, 2023 I got married to Sarah Hayes at Secrets Resort Maroma Beach, about a 30 minute drive south of Cancun, Mexico. Around 60 people attended our wedding, which was more than we anticipated considering it was a destination wedding. Not only was it great that so many of our closest friends and family made the trek to Mexico for our wedding, but also we got to spend nearly the entire wedding week at the resort with all of them! Doing it this way allowed us to really soak in the moment and not feel like it was a year of planning for just a few hours of fun.
+
+
+Fun at the resort (unordered list)
+
+
+
+Reherseal dinner (unordered list)
+
+
+
+Wedding Day (ordered list)
+
+
+
+
+
+
+IMAGES
+
+
+LINKS (at least two)
